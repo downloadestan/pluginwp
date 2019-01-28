@@ -1,0 +1,2 @@
+# pluginwp
+wp plugin
